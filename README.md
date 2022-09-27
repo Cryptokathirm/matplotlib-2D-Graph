@@ -1,4 +1,4 @@
-# matplotlib-2D-Graph
+# Matplotlib-2D-Graph
 # python library Matplotlib
 import numpy as np
 import matplotlib.pyplot as plt
